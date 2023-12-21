@@ -1,7 +1,7 @@
 # OpenGL-Realtime-Rendering
  A collection of homeworks from a class exploring introductory computer graphics
 
-1. [Simple Drawing Program] [3]
+1. [Simple Drawing Program][3]
 2. [OpenGL Maze Explorer][4]
 3. [C++ Realtime Graphics Pipeline][1]
 4. [Exploring Shaders][5]
