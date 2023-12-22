@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/ECE 594Q/GLSLShadersTemplate/GLSLShadersTemplate",
-      "program": "c:/ECE 594Q/GLSLShadersTemplate/GLSLShadersTemplate/build/Debug/outDebug",
+      "cwd": "c:/ECE 594Q/HW5/GLSLShadersTemplate",
+      "program": "c:/ECE 594Q/HW5/GLSLShadersTemplate/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
