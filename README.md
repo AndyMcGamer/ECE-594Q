@@ -8,7 +8,7 @@
 5. [Efficient Irradiance Maps Implementation][2]
 
 [1]: /HW4/
-[2]: /
+[2]: /Efficient-Irradiance-Maps/
 [3]: /HW0/
 [4]: /HW1/
 [5]: /HW5/
