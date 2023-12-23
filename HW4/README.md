@@ -1,5 +1,5 @@
 # Software Renderer from Scratch
-This project/assignment was to implement the real-time graphics pipeline using C++ from scratch. OpenGL was used only as a way to display the frame buffer on the screen. 
+This project/assignment was to implement the real-time graphics pipeline using C++ from scratch. OpenGL was used only as a way to display the framebuffer onto the screen. 
 
 ## Graphics Pipeline
 The following features were implemented:
