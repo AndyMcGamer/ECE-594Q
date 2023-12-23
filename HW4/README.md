@@ -3,7 +3,7 @@ This project/assignment was to implement the real-time graphics pipeline using C
 
 ## Graphics Pipeline
 The following features were implemented:
-- Vertex Processing
+- Vertex Processing/Transformation
 - Clipping
 - Perspective-correct interpolation
 - Rasterization - Two Methods
@@ -11,3 +11,4 @@ The following features were implemented:
   - Scanline Rasterization (actual method used since it's faster)
 - Texture Mapping
 - Z-Buffer/Depth Sorting
+- Framebuffer operations
